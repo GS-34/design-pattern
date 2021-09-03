@@ -1,4 +1,4 @@
-package kr.co.gs.design.facade;
+package kr.co.gs.design.facade.pattern;
 
 public class SubProcess2 {
 
